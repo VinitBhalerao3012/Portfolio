@@ -1,0 +1,42 @@
+[
+    {
+      "title": "EDA & Big Data Strategy with R",
+      "imageSrc": ["projects/data-analysis(1).png", "projects/data-analysis(2).png"],
+      "description": "Conducted EDA on car price data using R and tidyverse for cleaning, visualization, and statistical analysis. Proposed scalable big data solutions integrating R with Apache Spark and cloud storage for efficient analysis. Compared OLAP vs OLTP and cloud vs on-premise for optimal big data handling.",
+      "skills": ["R", "tidyverse", "ggplot2", "dplyr", "Apache Spark", "Big Data", "Cloud Storage", "Data Cleaning", "Statistical Analysis", "Data Visualization", "OLAP", "OLTP"],
+      "demo": "https://github.com/VinitBhalerao3012/Big-data-Analytics",
+      "source": "https://github.com/VinitBhalerao3012/Big-data-Analytics"
+    },
+    {
+      "title": "GIS Mapping: National Parks & COVID-19",
+      "imageSrc": ["projects/Covid-India.png", "projects/Nationalparks.png"],
+      "description": "Created a general-purpose map of Wales highlighting national parks and a statistical map showing COVID-19 case rates per 100k across Indian states using QGIS. Visualized population-normalized data to support public health and educational analysis.",
+      "skills": ["QGIS", "Cartography", "Spatial Analysis", "Data Visualization", "GIS", "Public Health Data"],
+      "demo": "https://github.com/VinitBhalerao3012/GIS-Visualization-Wales-India",
+      "source": "https://github.com/VinitBhalerao3012/GIS-Visualization-Wales-India"
+    },
+    {
+      "title": "Crime & Deprivation Mapping",
+      "imageSrc": ["projects/Crime1.png", "projects/Crime2.png", "projects/Crimebar.png", "projects/Crimebar1.png", "projects/CrimeratebyIncome.png", "projects/Deprivation.png", "projects/Employment.png", "projects/Highemp.png", "projects/Income.png"],
+      "description": "Analyzed the correlation between crime rates and socioeconomic deprivation in Cardiff and Swansea using QGIS. Applied spatial techniques like overlay and buffer analysis to identify high-crime, low-income areas and support targeted policy intervention.",
+      "skills": ["QGIS", "Spatial Analysis", "Overlay Analysis", "Buffer Analysis", "Socioeconomic Data", "Crime Mapping"],
+      "demo": "https://github.com/VinitBhalerao3012/QGIS",
+      "source": "https://github.com/VinitBhalerao3012/QGIS"
+    },
+    {
+      "title": "Face Recognition Attendance System",
+      "imageSrc": ["projects/Face1.png","projects/Face2.png","projects/Face3.png"],
+      "description": "Developed a face recognition attendance system using Python, OpenCV, DeepFace, and SQLite. Features real-time authentication, GUI via Tkinter, and admin control. Achieved 95% accuracy with secure and efficient attendance logging.",
+      "skills": ["Python", "OpenCV", "DeepFace", "SQLite", "Tkinter", "Face Recognition", "GUI Development"],
+      "demo": "https://github.com/VinitBhalerao3012/Face-Recognition-Attendance-System",
+      "source": "https://github.com/VinitBhalerao3012/Face-Recognition-Attendance-System"
+    },
+    {
+      "title": "Dynamic Pricing Engine with CLV Prediction",
+      "imageSrc": ["projects/CLV.png"],
+      "description": "Developed a machine learning-based dynamic pricing engine integrating CLV predictions to personalize prices for online retail. Used Python, XGBoost, and real-world e-commerce data to optimize revenue, retention, and customer satisfaction.",
+      "skills": ["Python", "Machine Learning", "XGBoost", "CLV Prediction", "E-commerce", "Data Analysis"],
+      "demo": "https://github.com/VinitBhalerao3012/Dynamic-pricing-engine-",
+      "source": "https://github.com/VinitBhalerao3012/Dynamic-pricing-engine-"
+    }
+  ]

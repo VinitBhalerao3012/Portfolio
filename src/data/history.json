@@ -1,0 +1,21 @@
+[
+    {
+      "role": "Senior System Engineer",
+      "organisation": "Infosys",
+      "startDate": "June, 2021",
+      "endDate": "October, 2023",
+      "experiences": ["Improved enterprise systems using Java, Python, and SQL for performance and scalability.",
+       "Developed REST APIs and automated workflows in Siebel CRM, boosting efficiency and user experience."],
+      "imageSrc": "history/company.png"
+    },
+    {
+      "role": "Intern",
+      "organisation": "Cummins India",
+      "startDate": "July, 2019",
+      "endDate": "September, 2019",
+      "experiences": ["Supported CNC programming and diagnostics to improve machining accuracy and efficiency.",
+       "Gained hands-on experience in ECU testing, firmware updates, and real-time engine system optimization."],
+      "imageSrc": "history/company.png"
+    }
+    
+  ]

@@ -1,0 +1,74 @@
+[
+  {
+    "title": "Python",
+    "imageSrc": "skills/python.png"
+  },
+  {
+    "title": "Java",
+    "imageSrc": "skills/Java.png"
+  },
+  {
+    "title": "R",
+    "imageSrc": "skills/R.png"
+  },
+  {
+    "title": "JavaScript",
+    "imageSrc": "skills/javascript.png"
+  },
+  {
+    "title": "HTML",
+    "imageSrc": "skills/html.png"
+  },
+  {
+    "title": "CSS",
+    "imageSrc": "skills/css.png"
+  },
+  {
+    "title": "SQL",
+    "imageSrc": "skills/sql.png"
+  },
+  {
+    "title": "PostgreSQL",
+    "imageSrc": "skills/postgresql.png"
+  },
+  {
+    "title": "Azure",
+    "imageSrc": "skills/azure.png"
+  },
+  {
+    "title": "REST API",
+    "imageSrc": "skills/api.png"
+  },
+  {
+    "title": "Tableau",
+    "imageSrc": "skills/tableau.png"
+  },
+  {
+    "title": "Power BI",
+    "imageSrc": "skills/Powerbi.png"
+  },
+  {
+    "title": "QGIS",
+    "imageSrc": "skills/qgis.png"
+  },
+  {
+    "title": "OpenCV",
+    "imageSrc": "skills/opencv.png"
+  },
+  {
+    "title": "DeepFace",
+    "imageSrc": "skills/Deepface.png"
+  },
+  {
+    "title": "Tkinter",
+    "imageSrc": "skills/tkinter.png"
+  },
+  {
+    "title": "GitHub",
+    "imageSrc": "skills/github.png"
+  },
+  {
+    "title": "Microsoft Word",
+    "imageSrc": "skills/word.png"
+  }
+]
