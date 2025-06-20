@@ -8,7 +8,7 @@ export const Hero = () => {
       <div className={styles.content}>
         <h1 className={styles.title}>Hi, I'm Vinit Bhalerao</h1>
         <p className={styles.description}>
-          A Software Developer with a comprehensive background in the field. Currently pursuing MSc in Computing and Information Systems at the University of South Wales.
+        A Data Analyst with a strong foundation in analytics, dashboard development, and data storytelling. Recently completed an MSc in Computing and Information Systems at the University of South Wales, and currently awaiting results.
         </p>
         <a
           href="https://linkedin.com/in/bhalerao-vinit3013"

@@ -4,8 +4,9 @@
       "organisation": "Infosys",
       "startDate": "June, 2021",
       "endDate": "October, 2023",
-      "experiences": ["Improved enterprise systems using Java, Python, and SQL for performance and scalability.",
-       "Developed REST APIs and automated workflows in Siebel CRM, boosting efficiency and user experience."],
+      "experiences": [" Designed and delivered self-serve dashboards using Power BI and DAX to support Sales, Customer Success, and Operations teams.",
+       "Automated KPI reporting using SQL, Excel VBA, and Power Query, reducing reporting time by 70%.",
+      "Conducted ad-hoc analysis, implemented anomaly detection logic, and contributed to data quality monitoring and governance."],
       "imageSrc": "history/company.png"
     },
     {
@@ -13,8 +14,8 @@
       "organisation": "Cummins India",
       "startDate": "July, 2019",
       "endDate": "September, 2019",
-      "experiences": ["Supported CNC programming and diagnostics to improve machining accuracy and efficiency.",
-       "Gained hands-on experience in ECU testing, firmware updates, and real-time engine system optimization."],
+      "experiences": ["Supported CNC diagnostics and optimisation through data-driven testing and real-time system analysis.",
+       "Gained hands-on experience in system-level validation and collaborative problem-solving in engineering environments."],
       "imageSrc": "history/company.png"
     }
     
