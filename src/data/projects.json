@@ -1,4 +1,12 @@
 [
+  {
+    "title": "Operations Performance Dashboard (Excel)",
+    "imageSrc": ["projects/main_dashboard.png","projects/trend_chart.png","projects/Country X Category.png","projects/Interaction_After.png","projects/Interaction_Before.png"],
+    "description": "Developed an interactive Excel dashboard to track and analyze key operations KPIs including Revenue, Profit, Orders, and Profit Margin. Includes trend analysis, category breakdowns, and interactive slicers.",
+    "skills": ["Excel", "Data Analytics", "Pivot Tables", "Data Visualization", "Dashboard Design"],
+    "demo": "https://github.com/VinitBhalerao3012/operations-performance-dashboard-excel",
+    "source": "https://github.com/VinitBhalerao3012/operations-performance-dashboard-excel"
+  },
     {
       "title": "EDA & Big Data Strategy with R",
       "imageSrc": ["projects/data-analysis(1).png", "projects/data-analysis(2).png"],
