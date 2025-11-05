@@ -7,6 +7,14 @@
     "demo": "https://github.com/VinitBhalerao3012/operations-performance-dashboard-excel",
     "source": "https://github.com/VinitBhalerao3012/operations-performance-dashboard-excel"
   },
+  {
+    "title": "Monday Coffee SQL Sales Analysis",
+    "imageSrc": ["projects/sql-analysis(1).png", "projects/sql-analysis(2).png", "projects/sql-analysis(3).png", "projects/sql-analysis(4).png", "projects/sql-analysis(5).png"],
+    "description": "Designed and implemented a complete SQL data analysis pipeline for a coffee-chain business. Imported and cleaned transactional data using MySQL, built relational schemas, created analytical views for KPIs, and derived actionable insights for city, product, and customer performance.",
+    "skills": ["MySQL", "SQL", "Data Cleaning", "Data Analysis", "Database Design", "ETL", "Data Visualization", "KPI Reporting", "Business Intelligence"],
+    "demo": "https://github.com/VinitBhalerao3012/Monday-Coffee-SQL-Analysis.git",
+    "source": "https://github.com/VinitBhalerao3012/Monday-Coffee-SQL-Analysis.git"
+  },
     {
       "title": "EDA & Big Data Strategy with R",
       "imageSrc": ["projects/data-analysis(1).png", "projects/data-analysis(2).png"],
