@@ -55,8 +55,9 @@
 .image {
   width: 100%;
   height: 250px;
-  object-fit: contain;
+  object-fit: cover;
   border-radius: 10px;
+ 
 }
 
 /* Skills section */

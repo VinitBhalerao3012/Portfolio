@@ -54,5 +54,13 @@
       "skills": ["Python", "Machine Learning", "XGBoost", "CLV Prediction", "E-commerce", "Data Analysis"],
       "demo": "https://github.com/VinitBhalerao3012/Dynamic-pricing-engine-",
       "source": "https://github.com/VinitBhalerao3012/Dynamic-pricing-engine-"
+    },
+    {
+      "title": "Python Projects Collection",
+      "imageSrc": ["projects/Application-form.png","projects/Calculator.png","projects/Zodiac2.png,"],
+      "description": "A collection of beginner-friendly Python programs including a calculator, application form, and zodiac sign predictor. These projects demonstrate core Python concepts such as user input handling, conditional logic, and basic program structure.",
+      "skills": ["Python", "Git", "GitHub","GUI Development"],
+      "demo": "https://github.com/VinitBhalerao3012/python-projects",
+      "source": "https://github.com/VinitBhalerao3012/python-projects"
     }
   ]

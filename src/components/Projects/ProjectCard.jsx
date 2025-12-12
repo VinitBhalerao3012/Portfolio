@@ -24,7 +24,7 @@ export const ProjectCard = ({
           spaceBetween={10}
           slidesPerView={1}
           className={styles.carousel}
-          style={{ width: "100%", height: "250px" }} // ✅ Set fixed height
+          
         >
           {imageSrc.map((img, index) => (
             <SwiperSlide key={index}>
