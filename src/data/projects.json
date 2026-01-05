@@ -62,5 +62,29 @@
       "skills": ["Python", "Git", "GitHub","GUI Development"],
       "demo": "https://github.com/VinitBhalerao3012/python-projects",
       "source": "https://github.com/VinitBhalerao3012/python-projects"
+    },
+    {
+      "title": "Weather Prediction using Machine Learning",
+      "imageSrc": ["projects/weather1.png","projects/weather2.png","projects/weather3.png,projects/weather4.png,projects/weather5.png"],
+      "description": "Built a machine learning model to predict weather conditions using historical data. Performed data preprocessing, exploratory data analysis, feature selection, and model evaluation to generate accurate forecasts.",
+      "skills": ["Python","Pandas","NumPy","Scikit-learn","Matplotlib","Seaborn","Machine Learning"],
+      "demo": "https://github.com/VinitBhalerao3012/ML-Projects/blob/main/Weather%20Prediction%20/Weather%20Prediction.ipynb",
+      "source": "https://github.com/VinitBhalerao3012/ML-Projects/blob/main/Weather%20Prediction%20/Weather%20Prediction.ipynb"
+    },
+    {
+      "title": "Wine Quality Prediction",
+      "imageSrc": ["projects/wine1.png","projects/wine2.png","projects/wine3.png,projects/wine4.png,projects/wine5.png,projects/wine6.png"],
+      "description": "Developed classification models to predict wine quality based on physicochemical properties. Compared Random Forest and SVM models and optimized performance using GridSearchCV.",
+      "skills": ["Python","Machine Learning","Random Forest","SVM","Scikit-learn","EDA","Data Visualization"],
+      "demo": "https://github.com/VinitBhalerao3012/ML-Projects/blob/main/Wine%20Quality%20Prediction/WQ.ipynb",
+      "source": "https://github.com/VinitBhalerao3012/ML-Projects/blob/main/Wine%20Quality%20Prediction/WQ.ipynb"
+    },
+    {
+      "title": "Bank Marketing EDA (R)",
+      "imageSrc": ["projects/R1.png","projects/R2.png","projects/R3.png","projects/R4.png","projects/R5.png","projects/R6.png","projects/R7.png","projects/R8.png","projects/R9.png"],
+      "description": "Exploratory Data Analysis on bank telemarketing data using conversion rate KPI. Identified high-performing customer segments and campaign timing patterns, and provided marketing recommendations..",
+      "skills": ["R", "dplyr", "ggplot2", "R Markdown", "EDA"],
+      "demo": "https://github.com/VinitBhalerao3012/EDA-on-Bank-s-Marketing-Strategy",
+      "source": "https://github.com/VinitBhalerao3012/EDA-on-Bank-s-Marketing-Strategy"
     }
   ]
