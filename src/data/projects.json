@@ -86,5 +86,21 @@
       "skills": ["R", "dplyr", "ggplot2", "R Markdown", "EDA"],
       "demo": "https://github.com/VinitBhalerao3012/EDA-on-Bank-s-Marketing-Strategy",
       "source": "https://github.com/VinitBhalerao3012/EDA-on-Bank-s-Marketing-Strategy"
+    },
+    {
+      "title": "Supply Chain Analysis (Power BI)",
+      "imageSrc": ["projects/Supply1.png","projects/Supply2.png","projects/Supply3.png","projects/Supply4.png","projects/Supply1.png"],
+      "description": "Interactive Power BI dashboard analyzing supply chain performance across transportation modes, routes, carriers, and product categories to identify cost drivers and revenue opportunities.",
+      "skills": ["Power BI", "Data Analysis", "Supply Chain Analytics", "Data Visualization"],
+      "demo": "https://github.com/VinitBhalerao3012/Supply_Chain_Analysis",
+      "source": "https://github.com/VinitBhalerao3012/Supply_Chain_Analysis"
+    },
+    {
+      "title": "Super Store Sales Analysis (Power BI)",
+      "imageSrc": ["projects/Super1.png","projects/Super2.png","projects/Super3.png"],
+      "description": "Power BI sales and profit analysis using the Superstore dataset to explore performance across categories, sub-categories, states, cities, and customer segments.",
+      "skills": ["Power BI", "Sales Analysis", "Business Intelligence", "Data Visualization"],
+      "demo": "https://github.com/VinitBhalerao3012/Super_Store_Analysis",
+      "source": "https://github.com/VinitBhalerao3012/Super_Store_Analysis"
     }
   ]
