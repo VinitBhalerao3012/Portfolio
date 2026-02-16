@@ -102,5 +102,19 @@
       "skills": ["Power BI", "Sales Analysis", "Business Intelligence", "Data Visualization"],
       "demo": "https://github.com/VinitBhalerao3012/Super_Store_Analysis",
       "source": "https://github.com/VinitBhalerao3012/Super_Store_Analysis"
+    },{
+      "title": "House Data Dashboard (Tableau)",
+      "imageSrc": ["projects/House1.png","projects/House2.png","projects/House3.png","projects/House4.png","projects/House5.png","projects/House6.png","projects/House7.png","projects/House8.png"],
+      "description": "Tableau dashboard analyzing housing market trends including price distribution, property features, location insights, and sales patterns to uncover key real estate insights.",
+      "skills": ["Tableau", "Excel", "Data Analysis", "Data Visualization"],
+      "demo": "https://github.com/VinitBhalerao3012/house-data-dashboard",
+      "source": "https://github.com/VinitBhalerao3012/house-data-dashboard"
+    },{
+      "title": "Job Data Dashboard (Tableau)",
+      "imageSrc": ["projects/Job1.png","projects/Job2.png","projects/Job3.png","projects/Job4.png"],
+      "description": "Interactive Tableau dashboard analyzing job market data, salary trends, industry demand, and role-based comparisons to provide insights into employment patterns.",
+      "skills": ["Tableau", "CSV Data", "Salary Analysis", "Business Intelligence"],
+      "demo": "https://github.com/VinitBhalerao3012/job-data-dashboard",
+      "source": "https://github.com/VinitBhalerao3012/job-data-dashboard"
     }
   ]
