@@ -116,5 +116,12 @@
       "skills": ["Tableau", "CSV Data", "Salary Analysis", "Business Intelligence"],
       "demo": "https://github.com/VinitBhalerao3012/job-data-dashboard",
       "source": "https://github.com/VinitBhalerao3012/job-data-dashboard"
+    },{
+      "title": "ShopLinx Multi-Channel Sales Analytics (Tableau + Azure)",
+      "imageSrc": ["projects/Online.png","projects/Offline.png","projects/Azure data.png"],
+      "description": "End-to-end Business Intelligence project analyzing Online and Offline retail performance using Tableau. The dashboard provides revenue trends, sales distribution by country, product category insights, and KPI tracking. Includes a simulated Azure data pipeline using Python for scalable analytics architecture.",
+      "skills": ["Tableau","Data Visualization","Business Intelligence","Python","Azure (Simulated Pipeline)","Multi-Channel Sales Analysis"],
+      "demo": "https://github.com/VinitBhalerao3012/ShopLinx-Multi-Channel-Sales-Analytics",
+      "source": "https://github.com/VinitBhalerao3012/ShopLinx-Multi-Channel-Sales-Analytics"
     }
   ]
