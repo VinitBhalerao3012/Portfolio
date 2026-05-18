@@ -139,7 +139,7 @@
       "imageSrc": ["projects/Dashboard.png","projects/Booking.png","projects/Feature_Usage.png","projects/Salons.png","projects/Subscription.png","projects/Users.png"],
       "description": "Interactive Product Analytics dashboard built in Looker Studio to analyse user growth, subscription performance, revenue trends, customer churn, acquisition channels, and device usage behaviour. The dashboard provides KPI monitoring, trend analysis, monetisation insights, and business intelligence reporting using simulated SaaS product data.",
       "skills": ["Looker Studio","Product Analytics","Business Intelligence","Dashboard Development","Data Visualization","KPI Reporting","Customer Analytics","Revenue Analysis"],
-      "demo": "https://github.com/VinitBhalerao3012",
-      "source": "https://github.com/VinitBhalerao3012"
+      "demo": "https://github.com/VinitBhalerao3012/GlowHive-Product-Analytics-Dashboard",
+      "source": "https://github.com/VinitBhalerao3012/GlowHive-Product-Analytics-Dashboard"
     }
   ]
