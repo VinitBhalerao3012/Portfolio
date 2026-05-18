@@ -102,7 +102,8 @@
       "skills": ["Power BI", "Sales Analysis", "Business Intelligence", "Data Visualization"],
       "demo": "https://github.com/VinitBhalerao3012/Super_Store_Analysis",
       "source": "https://github.com/VinitBhalerao3012/Super_Store_Analysis"
-    },{
+    },
+    {
       "title": "House Data Dashboard (Tableau)",
       "imageSrc": ["projects/House1.png","projects/House2.png","projects/House3.png","projects/House4.png","projects/House5.png","projects/House6.png","projects/House7.png","projects/House8.png"],
       "description": "Tableau dashboard analyzing housing market trends including price distribution, property features, location insights, and sales patterns to uncover key real estate insights.",
@@ -116,12 +117,29 @@
       "skills": ["Tableau", "CSV Data", "Salary Analysis", "Business Intelligence"],
       "demo": "https://github.com/VinitBhalerao3012/job-data-dashboard",
       "source": "https://github.com/VinitBhalerao3012/job-data-dashboard"
-    },{
+    },
+    {
       "title": "ShopLinx Multi-Channel Sales Analytics (Tableau + Azure)",
       "imageSrc": ["projects/Online.png","projects/Offline.png","projects/Azure data.png"],
       "description": "End-to-end Business Intelligence project analyzing Online and Offline retail performance using Tableau. The dashboard provides revenue trends, sales distribution by country, product category insights, and KPI tracking. Includes a simulated Azure data pipeline using Python for scalable analytics architecture.",
       "skills": ["Tableau","Data Visualization","Business Intelligence","Python","Azure (Simulated Pipeline)","Multi-Channel Sales Analysis"],
       "demo": "https://github.com/VinitBhalerao3012/ShopLinx-Multi-Channel-Sales-Analytics",
       "source": "https://github.com/VinitBhalerao3012/ShopLinx-Multi-Channel-Sales-Analytics"
+    },
+    {
+      "title": "ShopLinx Multi-Channel Sales Analytics (Tableau + Azure)",
+      "imageSrc": ["projects/Online.png","projects/Offline.png","projects/Azure data.png"],
+      "description": "End-to-end Business Intelligence project analyzing Online and Offline retail performance using Tableau. The dashboard provides revenue trends, sales distribution by country, product category insights, and KPI tracking. Includes a simulated Azure data pipeline using Python for scalable analytics architecture.",
+      "skills": ["Tableau","Data Visualization","Business Intelligence","Python","Azure (Simulated Pipeline)","Multi-Channel Sales Analysis"],
+      "demo": "https://github.com/VinitBhalerao3012/ShopLinx-Multi-Channel-Sales-Analytics",
+      "source": "https://github.com/VinitBhalerao3012/ShopLinx-Multi-Channel-Sales-Analytics"
+    },
+    {
+      "title": "GlowHive Product Analytics Dashboard (Looker Studio)",
+      "imageSrc": ["projects/Dashboard.png","projects/Booking.png","projects/Feature_Usage.png","projects/Salons.png","projects/Subscription.png","projects/Users.png"],
+      "description": "Interactive Product Analytics dashboard built in Looker Studio to analyse user growth, subscription performance, revenue trends, customer churn, acquisition channels, and device usage behaviour. The dashboard provides KPI monitoring, trend analysis, monetisation insights, and business intelligence reporting using simulated SaaS product data.",
+      "skills": ["Looker Studio","Product Analytics","Business Intelligence","Dashboard Development","Data Visualization","KPI Reporting","Customer Analytics","Revenue Analysis"],
+      "demo": "https://github.com/VinitBhalerao3012",
+      "source": "https://github.com/VinitBhalerao3012"
     }
   ]
