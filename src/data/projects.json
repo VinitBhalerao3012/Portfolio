@@ -8,6 +8,14 @@
     "source": "https://github.com/VinitBhalerao3012/retail-cloud-pipeline"
   },
   {
+    "title": "AI-Powered Data Insight Generator (Python, Gemini AI)",
+    "imageSrc": ["projects/report_screenshot.png"],
+    "description": "Automated business insight generator that uses Google Gemini AI to analyse any CSV dataset and produce a professional PDF report instantly. Python pipeline loads and analyses data, Gemini AI generates executive summary, key findings, and business recommendations automatically. Tested on IBM HR Analytics dataset (1,470 employee records).",
+    "skills": ["Python", "Google Gemini AI", "Pandas", "FPDF2", "AI Analytics", "Automation", "PDF Generation"],
+    "demo": "https://github.com/VinitBhalerao3012/ai-insight-generator",
+    "source": "https://github.com/VinitBhalerao3012/ai-insight-generator"
+  },
+  {
     "title": "Supply Chain Analysis (Power BI)",
     "imageSrc": ["projects/Supply1.png","projects/Supply2.png","projects/Supply3.png","projects/Supply4.png"],
     "description": "Interactive Power BI dashboard analyzing supply chain performance across transportation modes, routes, carriers, and product categories to identify cost drivers and revenue opportunities. Built using DAX and Power Query with drill-through capabilities.",
@@ -98,7 +106,7 @@
   {
     "title": "EDA & Big Data Strategy with R",
     "imageSrc": ["projects/data-analysis(1).png", "projects/data-analysis(2).png"],
-    "description": "Conducted EDA on car price data using R and tidyverse for cleaning, visualization, and statistical analysis. Proposed scalable big data solutions integrating R with Apache Spark and cloud storage for efficient analysis. Compared OLAP vs OLTP and cloud vs on-premise for optimal big data handling.",
+    "description": "Conducted EDA on car price data using R and tidyverse for cleaning, visualization, and statistical analysis. Proposed scalable big data solutions integrating R with Apache Spark and cloud storage for efficient analysis.",
     "skills": ["R", "tidyverse", "ggplot2", "dplyr", "Apache Spark", "Big Data", "Cloud Storage", "Statistical Analysis"],
     "demo": "https://github.com/VinitBhalerao3012/Big-data-Analytics",
     "source": "https://github.com/VinitBhalerao3012/Big-data-Analytics"
