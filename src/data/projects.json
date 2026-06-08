@@ -1,145 +1,146 @@
 [
   {
+    "title": "Retail Cloud Pipeline (Python, BigQuery, SQL, Looker Studio)",
+    "imageSrc": ["projects/retail_dashboard.png", "projects/forecast_chart.png"],
+    "description": "End-to-end cloud data pipeline built using Python ETL, Google BigQuery, and Looker Studio. Cleaned and transformed 9,994 retail records, wrote 6 BigQuery SQL analysis queries, and built an interactive 2-page dashboard tracking £2.3M in sales performance. Extended with Facebook Prophet ML model generating 12-month sales forecasts with confidence intervals. Live on GitHub.",
+    "skills": ["Python", "Google BigQuery", "SQL", "Looker Studio", "ETL", "Pandas", "Prophet", "Machine Learning", "Data Visualization", "KPI Reporting"],
+    "demo": "https://datastudio.google.com/s/uqvS0ilg0SY",
+    "source": "https://github.com/VinitBhalerao3012/retail-cloud-pipeline"
+  },
+  {
+    "title": "Supply Chain Analysis (Power BI)",
+    "imageSrc": ["projects/Supply1.png","projects/Supply2.png","projects/Supply3.png","projects/Supply4.png"],
+    "description": "Interactive Power BI dashboard analyzing supply chain performance across transportation modes, routes, carriers, and product categories to identify cost drivers and revenue opportunities. Built using DAX and Power Query with drill-through capabilities.",
+    "skills": ["Power BI", "DAX", "Power Query", "Supply Chain Analytics", "Data Visualization", "KPI Reporting"],
+    "demo": "https://github.com/VinitBhalerao3012/Supply_Chain_Analysis",
+    "source": "https://github.com/VinitBhalerao3012/Supply_Chain_Analysis"
+  },
+  {
+    "title": "GlowHive Product Analytics Dashboard (Looker Studio)",
+    "imageSrc": ["projects/Dashboard.png","projects/Booking.png","projects/Feature_Usage.png","projects/Salons.png","projects/Subscription.png","projects/Users.png"],
+    "description": "Interactive Product Analytics dashboard built in Looker Studio to analyse user growth, subscription performance, revenue trends, customer churn, acquisition channels, and device usage behaviour. Provides KPI monitoring, trend analysis, monetisation insights, and business intelligence reporting using simulated SaaS product data.",
+    "skills": ["Looker Studio", "Product Analytics", "Business Intelligence", "Dashboard Development", "Data Visualization", "KPI Reporting", "Customer Analytics", "Revenue Analysis"],
+    "demo": "https://github.com/VinitBhalerao3012/GlowHive-Product-Analytics-Dashboard/tree/main/GlowHive-Product-Analytics-Dashboard",
+    "source": "https://github.com/VinitBhalerao3012/GlowHive-Product-Analytics-Dashboard/tree/main/GlowHive-Product-Analytics-Dashboard"
+  },
+  {
+    "title": "ShopLinx Multi-Channel Sales Analytics (Tableau + Azure)",
+    "imageSrc": ["projects/Online.png","projects/Offline.png","projects/Azure data.png"],
+    "description": "End-to-end Business Intelligence project analyzing Online and Offline retail performance using Tableau. Provides revenue trends, sales distribution by country, product category insights, and KPI tracking. Includes a simulated Azure data pipeline using Python for scalable analytics architecture.",
+    "skills": ["Tableau", "Data Visualization", "Business Intelligence", "Python", "Azure (Simulated Pipeline)", "Multi-Channel Sales Analysis"],
+    "demo": "https://github.com/VinitBhalerao3012/ShopLinx-Multi-Channel-Sales-Analytics",
+    "source": "https://github.com/VinitBhalerao3012/ShopLinx-Multi-Channel-Sales-Analytics"
+  },
+  {
+    "title": "Super Store Sales Analysis (Power BI)",
+    "imageSrc": ["projects/Super1.png","projects/Super2.png","projects/Super3.png"],
+    "description": "Power BI sales and profit analysis using the Superstore dataset to explore performance across categories, sub-categories, states, cities, and customer segments. Built with DAX measures and interactive slicers.",
+    "skills": ["Power BI", "DAX", "Sales Analysis", "Business Intelligence", "Data Visualization"],
+    "demo": "https://github.com/VinitBhalerao3012/Super_Store_Analysis",
+    "source": "https://github.com/VinitBhalerao3012/Super_Store_Analysis"
+  },
+  {
+    "title": "Dynamic Pricing Engine with CLV Prediction",
+    "imageSrc": ["projects/CLV.png"],
+    "description": "Machine learning-based dynamic pricing engine integrating CLV predictions to personalise prices for online retail. Used Python and XGBoost to optimise revenue, retention, and customer satisfaction.",
+    "skills": ["Python", "Machine Learning", "XGBoost", "CLV Prediction", "E-commerce", "Data Analysis"],
+    "demo": "https://github.com/VinitBhalerao3012/Dynamic-pricing-engine-",
+    "source": "https://github.com/VinitBhalerao3012/Dynamic-pricing-engine-"
+  },
+  {
+    "title": "Bank Marketing EDA (R)",
+    "imageSrc": ["projects/R1.png","projects/R2.png","projects/R3.png","projects/R4.png","projects/R5.png"],
+    "description": "Exploratory Data Analysis on bank telemarketing data using conversion rate KPI. Identified high-performing customer segments and campaign timing patterns, and provided actionable marketing recommendations.",
+    "skills": ["R", "dplyr", "ggplot2", "R Markdown", "EDA", "Statistical Analysis"],
+    "demo": "https://github.com/VinitBhalerao3012/EDA-on-Bank-s-Marketing-Strategy",
+    "source": "https://github.com/VinitBhalerao3012/EDA-on-Bank-s-Marketing-Strategy"
+  },
+  {
+    "title": "Monday Coffee SQL Sales Analysis",
+    "imageSrc": ["projects/sql-analysis(1).png", "projects/sql-analysis(2).png", "projects/sql-analysis(3).png"],
+    "description": "Complete SQL data analysis pipeline for a coffee-chain business. Imported and cleaned transactional data using MySQL, built relational schemas, created analytical views for KPIs, and derived actionable insights for city, product, and customer performance.",
+    "skills": ["MySQL", "SQL", "Data Cleaning", "Data Analysis", "Database Design", "ETL", "KPI Reporting"],
+    "demo": "https://github.com/VinitBhalerao3012/Monday-Coffee-SQL-Analysis.git",
+    "source": "https://github.com/VinitBhalerao3012/Monday-Coffee-SQL-Analysis.git"
+  },
+  {
+    "title": "House Data Dashboard (Tableau)",
+    "imageSrc": ["projects/House1.png","projects/House2.png","projects/House3.png","projects/House4.png"],
+    "description": "Tableau dashboard analyzing housing market trends including price distribution, property features, location insights, and sales patterns to uncover key real estate insights.",
+    "skills": ["Tableau", "Excel", "Data Analysis", "Data Visualization"],
+    "demo": "https://github.com/VinitBhalerao3012/house-data-dashboard",
+    "source": "https://github.com/VinitBhalerao3012/house-data-dashboard"
+  },
+  {
+    "title": "Job Data Dashboard (Tableau)",
+    "imageSrc": ["projects/Job1.png","projects/Job2.png","projects/Job3.png","projects/Job4.png"],
+    "description": "Interactive Tableau dashboard analyzing job market data, salary trends, industry demand, and role-based comparisons to provide insights into employment patterns.",
+    "skills": ["Tableau", "CSV Data", "Salary Analysis", "Business Intelligence"],
+    "demo": "https://github.com/VinitBhalerao3012/job-data-dashboard",
+    "source": "https://github.com/VinitBhalerao3012/job-data-dashboard"
+  },
+  {
+    "title": "Crime & Deprivation Mapping (QGIS)",
+    "imageSrc": ["projects/Crime1.png", "projects/Crime2.png", "projects/Crimebar.png"],
+    "description": "Analyzed the correlation between crime rates and socioeconomic deprivation in Cardiff and Swansea using QGIS. Applied spatial techniques including overlay and buffer analysis to identify high-crime, low-income areas and support targeted policy intervention.",
+    "skills": ["QGIS", "Spatial Analysis", "Overlay Analysis", "Buffer Analysis", "Socioeconomic Data", "Crime Mapping"],
+    "demo": "https://github.com/VinitBhalerao3012/QGIS",
+    "source": "https://github.com/VinitBhalerao3012/QGIS"
+  },
+  {
+    "title": "GIS Mapping: National Parks & COVID-19",
+    "imageSrc": ["projects/Covid-India.png", "projects/Nationalparks.png"],
+    "description": "Created a general-purpose map of Wales highlighting national parks and a statistical map showing COVID-19 case rates per 100k across Indian states using QGIS. Visualized population-normalized data to support public health and educational analysis.",
+    "skills": ["QGIS", "Cartography", "Spatial Analysis", "Data Visualization", "GIS", "Public Health Data"],
+    "demo": "https://github.com/VinitBhalerao3012/GIS-Visualization-Wales-India",
+    "source": "https://github.com/VinitBhalerao3012/GIS-Visualization-Wales-India"
+  },
+  {
+    "title": "EDA & Big Data Strategy with R",
+    "imageSrc": ["projects/data-analysis(1).png", "projects/data-analysis(2).png"],
+    "description": "Conducted EDA on car price data using R and tidyverse for cleaning, visualization, and statistical analysis. Proposed scalable big data solutions integrating R with Apache Spark and cloud storage for efficient analysis. Compared OLAP vs OLTP and cloud vs on-premise for optimal big data handling.",
+    "skills": ["R", "tidyverse", "ggplot2", "dplyr", "Apache Spark", "Big Data", "Cloud Storage", "Statistical Analysis"],
+    "demo": "https://github.com/VinitBhalerao3012/Big-data-Analytics",
+    "source": "https://github.com/VinitBhalerao3012/Big-data-Analytics"
+  },
+  {
+    "title": "Weather Prediction using Machine Learning",
+    "imageSrc": ["projects/weather1.png","projects/weather2.png","projects/weather3.png"],
+    "description": "Built a machine learning model to predict weather conditions using historical data. Performed data preprocessing, exploratory data analysis, feature selection, and model evaluation to generate accurate forecasts.",
+    "skills": ["Python", "Pandas", "NumPy", "Scikit-learn", "Matplotlib", "Seaborn", "Machine Learning"],
+    "demo": "https://github.com/VinitBhalerao3012/ML-Projects/blob/main/Weather%20Prediction%20/Weather%20Prediction.ipynb",
+    "source": "https://github.com/VinitBhalerao3012/ML-Projects/blob/main/Weather%20Prediction%20/Weather%20Prediction.ipynb"
+  },
+  {
+    "title": "Wine Quality Prediction",
+    "imageSrc": ["projects/wine1.png","projects/wine2.png","projects/wine3.png"],
+    "description": "Developed classification models to predict wine quality based on physicochemical properties. Compared Random Forest and SVM models and optimized performance using GridSearchCV.",
+    "skills": ["Python", "Machine Learning", "Random Forest", "SVM", "Scikit-learn", "EDA", "Data Visualization"],
+    "demo": "https://github.com/VinitBhalerao3012/ML-Projects/blob/main/Wine%20Quality%20Prediction/WQ.ipynb",
+    "source": "https://github.com/VinitBhalerao3012/ML-Projects/blob/main/Wine%20Quality%20Prediction/WQ.ipynb"
+  },
+  {
+    "title": "Face Recognition Attendance System",
+    "imageSrc": ["projects/Face1.png","projects/Face2.png","projects/Face3.png"],
+    "description": "Developed a face recognition attendance system using Python, OpenCV, DeepFace, and SQLite. Features real-time authentication, GUI via Tkinter, and admin control. Achieved 95% accuracy with secure and efficient attendance logging.",
+    "skills": ["Python", "OpenCV", "DeepFace", "SQLite", "Tkinter", "Face Recognition", "GUI Development"],
+    "demo": "https://github.com/VinitBhalerao3012/Face-Recognition-Attendance-System",
+    "source": "https://github.com/VinitBhalerao3012/Face-Recognition-Attendance-System"
+  },
+  {
     "title": "Operations Performance Dashboard (Excel)",
-    "imageSrc": ["projects/main_dashboard.png","projects/trend_chart.png","projects/Country X Category.png","projects/Interaction_After.png","projects/Interaction_Before.png"],
+    "imageSrc": ["projects/main_dashboard.png","projects/trend_chart.png","projects/Country X Category.png"],
     "description": "Developed an interactive Excel dashboard to track and analyze key operations KPIs including Revenue, Profit, Orders, and Profit Margin. Includes trend analysis, category breakdowns, and interactive slicers.",
     "skills": ["Excel", "Data Analytics", "Pivot Tables", "Data Visualization", "Dashboard Design"],
     "demo": "https://github.com/VinitBhalerao3012/operations-performance-dashboard-excel",
     "source": "https://github.com/VinitBhalerao3012/operations-performance-dashboard-excel"
   },
   {
-    "title": "Monday Coffee SQL Sales Analysis",
-    "imageSrc": ["projects/sql-analysis(1).png", "projects/sql-analysis(2).png", "projects/sql-analysis(3).png", "projects/sql-analysis(4).png", "projects/sql-analysis(5).png"],
-    "description": "Designed and implemented a complete SQL data analysis pipeline for a coffee-chain business. Imported and cleaned transactional data using MySQL, built relational schemas, created analytical views for KPIs, and derived actionable insights for city, product, and customer performance.",
-    "skills": ["MySQL", "SQL", "Data Cleaning", "Data Analysis", "Database Design", "ETL", "Data Visualization", "KPI Reporting", "Business Intelligence"],
-    "demo": "https://github.com/VinitBhalerao3012/Monday-Coffee-SQL-Analysis.git",
-    "source": "https://github.com/VinitBhalerao3012/Monday-Coffee-SQL-Analysis.git"
-  },
-    {
-      "title": "EDA & Big Data Strategy with R",
-      "imageSrc": ["projects/data-analysis(1).png", "projects/data-analysis(2).png"],
-      "description": "Conducted EDA on car price data using R and tidyverse for cleaning, visualization, and statistical analysis. Proposed scalable big data solutions integrating R with Apache Spark and cloud storage for efficient analysis. Compared OLAP vs OLTP and cloud vs on-premise for optimal big data handling.",
-      "skills": ["R", "tidyverse", "ggplot2", "dplyr", "Apache Spark", "Big Data", "Cloud Storage", "Data Cleaning", "Statistical Analysis", "Data Visualization", "OLAP", "OLTP"],
-      "demo": "https://github.com/VinitBhalerao3012/Big-data-Analytics",
-      "source": "https://github.com/VinitBhalerao3012/Big-data-Analytics"
-    },
-    {
-      "title": "GIS Mapping: National Parks & COVID-19",
-      "imageSrc": ["projects/Covid-India.png", "projects/Nationalparks.png"],
-      "description": "Created a general-purpose map of Wales highlighting national parks and a statistical map showing COVID-19 case rates per 100k across Indian states using QGIS. Visualized population-normalized data to support public health and educational analysis.",
-      "skills": ["QGIS", "Cartography", "Spatial Analysis", "Data Visualization", "GIS", "Public Health Data"],
-      "demo": "https://github.com/VinitBhalerao3012/GIS-Visualization-Wales-India",
-      "source": "https://github.com/VinitBhalerao3012/GIS-Visualization-Wales-India"
-    },
-    {
-      "title": "Crime & Deprivation Mapping",
-      "imageSrc": ["projects/Crime1.png", "projects/Crime2.png", "projects/Crimebar.png", "projects/Crimebar1.png", "projects/CrimeratebyIncome.png", "projects/Deprivation.png", "projects/Employment.png", "projects/Highemp.png", "projects/Income.png"],
-      "description": "Analyzed the correlation between crime rates and socioeconomic deprivation in Cardiff and Swansea using QGIS. Applied spatial techniques like overlay and buffer analysis to identify high-crime, low-income areas and support targeted policy intervention.",
-      "skills": ["QGIS", "Spatial Analysis", "Overlay Analysis", "Buffer Analysis", "Socioeconomic Data", "Crime Mapping"],
-      "demo": "https://github.com/VinitBhalerao3012/QGIS",
-      "source": "https://github.com/VinitBhalerao3012/QGIS"
-    },
-    {
-      "title": "Face Recognition Attendance System",
-      "imageSrc": ["projects/Face1.png","projects/Face2.png","projects/Face3.png"],
-      "description": "Developed a face recognition attendance system using Python, OpenCV, DeepFace, and SQLite. Features real-time authentication, GUI via Tkinter, and admin control. Achieved 95% accuracy with secure and efficient attendance logging.",
-      "skills": ["Python", "OpenCV", "DeepFace", "SQLite", "Tkinter", "Face Recognition", "GUI Development"],
-      "demo": "https://github.com/VinitBhalerao3012/Face-Recognition-Attendance-System",
-      "source": "https://github.com/VinitBhalerao3012/Face-Recognition-Attendance-System"
-    },
-    {
-      "title": "Dynamic Pricing Engine with CLV Prediction",
-      "imageSrc": ["projects/CLV.png"],
-      "description": "Developed a machine learning-based dynamic pricing engine integrating CLV predictions to personalize prices for online retail. Used Python, XGBoost, and real-world e-commerce data to optimize revenue, retention, and customer satisfaction.",
-      "skills": ["Python", "Machine Learning", "XGBoost", "CLV Prediction", "E-commerce", "Data Analysis"],
-      "demo": "https://github.com/VinitBhalerao3012/Dynamic-pricing-engine-",
-      "source": "https://github.com/VinitBhalerao3012/Dynamic-pricing-engine-"
-    },
-    {
-      "title": "Python Projects Collection",
-      "imageSrc": ["projects/Application-form.png","projects/Calculator.png","projects/Zodiac2.png,"],
-      "description": "A collection of beginner-friendly Python programs including a calculator, application form, and zodiac sign predictor. These projects demonstrate core Python concepts such as user input handling, conditional logic, and basic program structure.",
-      "skills": ["Python", "Git", "GitHub","GUI Development"],
-      "demo": "https://github.com/VinitBhalerao3012/python-projects",
-      "source": "https://github.com/VinitBhalerao3012/python-projects"
-    },
-    {
-      "title": "Weather Prediction using Machine Learning",
-      "imageSrc": ["projects/weather1.png","projects/weather2.png","projects/weather3.png","projects/weather4.png","projects/weather5.png"],
-      "description": "Built a machine learning model to predict weather conditions using historical data. Performed data preprocessing, exploratory data analysis, feature selection, and model evaluation to generate accurate forecasts.",
-      "skills": ["Python","Pandas","NumPy","Scikit-learn","Matplotlib","Seaborn","Machine Learning"],
-      "demo": "https://github.com/VinitBhalerao3012/ML-Projects/blob/main/Weather%20Prediction%20/Weather%20Prediction.ipynb",
-      "source": "https://github.com/VinitBhalerao3012/ML-Projects/blob/main/Weather%20Prediction%20/Weather%20Prediction.ipynb"
-    },
-    {
-      "title": "Wine Quality Prediction",
-      "imageSrc": ["projects/wine1.png","projects/wine2.png","projects/wine3.png","projects/wine4.png","projects/wine5.png","projects/wine6.png"],
-      "description": "Developed classification models to predict wine quality based on physicochemical properties. Compared Random Forest and SVM models and optimized performance using GridSearchCV.",
-      "skills": ["Python","Machine Learning","Random Forest","SVM","Scikit-learn","EDA","Data Visualization"],
-      "demo": "https://github.com/VinitBhalerao3012/ML-Projects/blob/main/Wine%20Quality%20Prediction/WQ.ipynb",
-      "source": "https://github.com/VinitBhalerao3012/ML-Projects/blob/main/Wine%20Quality%20Prediction/WQ.ipynb"
-    },
-    {
-      "title": "Bank Marketing EDA (R)",
-      "imageSrc": ["projects/R1.png","projects/R2.png","projects/R3.png","projects/R4.png","projects/R5.png","projects/R6.png","projects/R7.png","projects/R8.png","projects/R9.png"],
-      "description": "Exploratory Data Analysis on bank telemarketing data using conversion rate KPI. Identified high-performing customer segments and campaign timing patterns, and provided marketing recommendations..",
-      "skills": ["R", "dplyr", "ggplot2", "R Markdown", "EDA"],
-      "demo": "https://github.com/VinitBhalerao3012/EDA-on-Bank-s-Marketing-Strategy",
-      "source": "https://github.com/VinitBhalerao3012/EDA-on-Bank-s-Marketing-Strategy"
-    },
-    {
-      "title": "Supply Chain Analysis (Power BI)",
-      "imageSrc": ["projects/Supply1.png","projects/Supply2.png","projects/Supply3.png","projects/Supply4.png","projects/Supply1.png"],
-      "description": "Interactive Power BI dashboard analyzing supply chain performance across transportation modes, routes, carriers, and product categories to identify cost drivers and revenue opportunities.",
-      "skills": ["Power BI", "Data Analysis", "Supply Chain Analytics", "Data Visualization"],
-      "demo": "https://github.com/VinitBhalerao3012/Supply_Chain_Analysis",
-      "source": "https://github.com/VinitBhalerao3012/Supply_Chain_Analysis"
-    },
-    {
-      "title": "Super Store Sales Analysis (Power BI)",
-      "imageSrc": ["projects/Super1.png","projects/Super2.png","projects/Super3.png"],
-      "description": "Power BI sales and profit analysis using the Superstore dataset to explore performance across categories, sub-categories, states, cities, and customer segments.",
-      "skills": ["Power BI", "Sales Analysis", "Business Intelligence", "Data Visualization"],
-      "demo": "https://github.com/VinitBhalerao3012/Super_Store_Analysis",
-      "source": "https://github.com/VinitBhalerao3012/Super_Store_Analysis"
-    },
-    {
-      "title": "House Data Dashboard (Tableau)",
-      "imageSrc": ["projects/House1.png","projects/House2.png","projects/House3.png","projects/House4.png","projects/House5.png","projects/House6.png","projects/House7.png","projects/House8.png"],
-      "description": "Tableau dashboard analyzing housing market trends including price distribution, property features, location insights, and sales patterns to uncover key real estate insights.",
-      "skills": ["Tableau", "Excel", "Data Analysis", "Data Visualization"],
-      "demo": "https://github.com/VinitBhalerao3012/house-data-dashboard",
-      "source": "https://github.com/VinitBhalerao3012/house-data-dashboard"
-    },{
-      "title": "Job Data Dashboard (Tableau)",
-      "imageSrc": ["projects/Job1.png","projects/Job2.png","projects/Job3.png","projects/Job4.png"],
-      "description": "Interactive Tableau dashboard analyzing job market data, salary trends, industry demand, and role-based comparisons to provide insights into employment patterns.",
-      "skills": ["Tableau", "CSV Data", "Salary Analysis", "Business Intelligence"],
-      "demo": "https://github.com/VinitBhalerao3012/job-data-dashboard",
-      "source": "https://github.com/VinitBhalerao3012/job-data-dashboard"
-    },
-    {
-      "title": "ShopLinx Multi-Channel Sales Analytics (Tableau + Azure)",
-      "imageSrc": ["projects/Online.png","projects/Offline.png","projects/Azure data.png"],
-      "description": "End-to-end Business Intelligence project analyzing Online and Offline retail performance using Tableau. The dashboard provides revenue trends, sales distribution by country, product category insights, and KPI tracking. Includes a simulated Azure data pipeline using Python for scalable analytics architecture.",
-      "skills": ["Tableau","Data Visualization","Business Intelligence","Python","Azure (Simulated Pipeline)","Multi-Channel Sales Analysis"],
-      "demo": "https://github.com/VinitBhalerao3012/ShopLinx-Multi-Channel-Sales-Analytics",
-      "source": "https://github.com/VinitBhalerao3012/ShopLinx-Multi-Channel-Sales-Analytics"
-    },
-    {
-      "title": "ShopLinx Multi-Channel Sales Analytics (Tableau + Azure)",
-      "imageSrc": ["projects/Online.png","projects/Offline.png","projects/Azure data.png"],
-      "description": "End-to-end Business Intelligence project analyzing Online and Offline retail performance using Tableau. The dashboard provides revenue trends, sales distribution by country, product category insights, and KPI tracking. Includes a simulated Azure data pipeline using Python for scalable analytics architecture.",
-      "skills": ["Tableau","Data Visualization","Business Intelligence","Python","Azure (Simulated Pipeline)","Multi-Channel Sales Analysis"],
-      "demo": "https://github.com/VinitBhalerao3012/ShopLinx-Multi-Channel-Sales-Analytics",
-      "source": "https://github.com/VinitBhalerao3012/ShopLinx-Multi-Channel-Sales-Analytics"
-    },
-    {
-      "title": "GlowHive Product Analytics Dashboard (Looker Studio)",
-      "imageSrc": ["projects/Dashboard.png","projects/Booking.png","projects/Feature_Usage.png","projects/Salons.png","projects/Subscription.png","projects/Users.png"],
-      "description": "Interactive Product Analytics dashboard built in Looker Studio to analyse user growth, subscription performance, revenue trends, customer churn, acquisition channels, and device usage behaviour. The dashboard provides KPI monitoring, trend analysis, monetisation insights, and business intelligence reporting using simulated SaaS product data.",
-      "skills": ["Looker Studio","Product Analytics","Business Intelligence","Dashboard Development","Data Visualization","KPI Reporting","Customer Analytics","Revenue Analysis"],
-      "demo": "https://github.com/VinitBhalerao3012/GlowHive-Product-Analytics-Dashboard/tree/main/GlowHive-Product-Analytics-Dashboard",
-      "source": "https://github.com/VinitBhalerao3012/GlowHive-Product-Analytics-Dashboard/tree/main/GlowHive-Product-Analytics-Dashboard"
-    }
-  ]
+    "title": "Python Projects Collection",
+    "imageSrc": ["projects/Application-form.png","projects/Calculator.png","projects/Zodiac2.png"],
+    "description": "A collection of beginner-friendly Python programs including a calculator, application form, and zodiac sign predictor. These projects demonstrate core Python concepts such as user input handling, conditional logic, and basic program structure.",
+    "skills": ["Python", "Git", "GitHub", "GUI Development"],
+    "demo": "https://github.com/VinitBhalerao3012/python-projects",
+    "source": "https://github.com/VinitBhalerao3012/python-projects"
+  }
+]

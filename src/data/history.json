@@ -1,22 +1,25 @@
 [
-    {
-      "role": "Senior System Engineer",
-      "organisation": "Infosys",
-      "startDate": "June, 2021",
-      "endDate": "October, 2023",
-      "experiences": [" Designed and delivered self-serve dashboards using Power BI and DAX to support Sales, Customer Success, and Operations teams.",
-       "Automated KPI reporting using SQL, Excel VBA, and Power Query, reducing reporting time by 70%.",
-      "Conducted ad-hoc analysis, implemented anomaly detection logic, and contributed to data quality monitoring and governance."],
-      "imageSrc": "history/company.png"
-    },
-    {
-      "role": "Intern",
-      "organisation": "Cummins India",
-      "startDate": "July, 2019",
-      "endDate": "September, 2019",
-      "experiences": ["Supported CNC diagnostics and optimisation through data-driven testing and real-time system analysis.",
-       "Gained hands-on experience in system-level validation and collaborative problem-solving in engineering environments."],
-      "imageSrc": "history/company.png"
-    }
-    
-  ]
+  {
+    "role": "Data Analyst",
+    "organisation": "Infosys",
+    "startDate": "June, 2021",
+    "endDate": "October, 2023",
+    "experiences": [
+      "Queried and analysed large-scale datasets using SQL and Python to deliver KPI dashboards and performance reports for 100+ stakeholders across Finance and Marketing.",
+      "Built and maintained Power BI dashboards using DAX and Power Query, automating legacy reporting pipelines and reducing manual effort by 70%.",
+      "Conducted root cause analysis and anomaly detection to ensure data quality, accuracy, and governance across all reporting outputs."
+    ],
+    "imageSrc": "history/company.png"
+  },
+  {
+    "role": "Shift Manager",
+    "organisation": "SSP Group (Popeyes)",
+    "startDate": "July, 2025",
+    "endDate": "Present",
+    "experiences": [
+      "Managed shift operations in a fast-paced retail environment at Birmingham Airport, monitoring KPIs and coordinating team performance.",
+      "Contributed to a 15% improvement in team service scores through targeted performance monitoring and data-driven operational decisions."
+    ],
+    "imageSrc": "history/company.png"
+  }
+]

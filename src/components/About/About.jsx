@@ -20,16 +20,16 @@ export const About = () => {
                 <Lottie loop={true} animationData={graph} className={styles.lottieImage}/>
                 <div className={styles.aboutItemText}>
                     <h3>Data Analyst</h3>
-                    <p>Recently completed an MSc in Computing and Information Systems at the University of South Wales and currently awaiting final results. Skilled in transforming data into actionable insights using tools like SQL, Power BI, R, Tableau and Python.
+                    <p>MSc Computing and Information Systems — Merit, University of South Wales (2025). 2+ years of experience transforming data into actionable insights using SQL, Power BI, Python, Tableau, and Google BigQuery.
                     </p>
                 </div>
             </li>
             <li className={styles.aboutItem}>
                 <Lottie loop={true} animationData={coder} className={styles.lottieImage}/>
                 <div className={styles.aboutItemText}>
-                    <h3>Senior System Engineer</h3>
+                    <h3>Data Analyst</h3>
                     <p>
-                    Led data initiatives at Infosys by building interactive dashboards and automating KPI reports using SQL, Power BI, and Excel. Delivered self-serve analytics solutions for Sales and Operations, standardised KPI definitions, and maintained high data quality through anomaly detection and automated validation pipelines.
+                    Led data initiatives at Infosys by building interactive Power BI dashboards, automating KPI reports using SQL and Python, and delivering self-serve analytics for 100+ stakeholders across Finance and Marketing. Reduced manual reporting effort by 70% through end-to-end pipeline automation and maintained high data quality through anomaly detection and validation.
                     </p>
                 </div>
             </li>
@@ -38,7 +38,7 @@ export const About = () => {
                 <div className={styles.aboutItemText}>
                     <h3>Data Analytics Projects</h3>
                     <p>
-                    Developed data-driven projects including customer segmentation models, ticket backlog dashboards, and crime analysis tools. Used SQL, Python, Power BI, and QGIS to uncover insights, build scalable dashboards, and support strategic decision-making across teams.
+                    Built end-to-end analytics projects including a cloud retail pipeline (Python, BigQuery, SQL, Looker Studio), ML sales forecasting using Prophet, Power BI dashboards, and customer segmentation models. Projects live on GitHub with full documentation.
                     </p>
                 </div>
             </li>

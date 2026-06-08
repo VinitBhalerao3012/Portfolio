@@ -8,7 +8,7 @@ export const Hero = () => {
       <div className={styles.content}>
         <h1 className={styles.title}>Hi, I'm Vinit Bhalerao</h1>
         <p className={styles.description}>
-        A Data Analyst with a strong foundation in analytics, dashboard development, and data storytelling. Recently completed an MSc in Computing and Information Systems at the University of South Wales, and currently awaiting results.
+        A Data Analyst with 2+ years of experience specialising in SQL, Power BI, Python, and data storytelling. MSc Computing and Information Systems — Merit, University of South Wales (2025). Open to new opportunities across the UK.
         </p>
         <a
           href="https://linkedin.com/in/bhalerao-vinit3013"
