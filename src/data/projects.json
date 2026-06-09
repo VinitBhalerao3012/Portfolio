@@ -16,6 +16,14 @@
     "source": "https://github.com/VinitBhalerao3012/ai-insight-generator"
   },
   {
+    "title": "NLP to SQL Query Tool (Python, Gemini AI, SQLite)",
+    "imageSrc": ["projects/nlp_screenshot1.png", "projects/nlp_screenshot2.png"],
+    "description": "AI-powered tool that converts plain English questions into SQL queries automatically. User asks a question, Google Gemini AI generates and executes the SQL on a SQLite database, and returns the answer as a natural language insight. Tested on 9,271 E-Commerce records.",
+    "skills": ["Python", "Google Gemini AI", "SQL", "SQLite", "Pandas", "NLP", "API Integration", "Automation"],
+    "demo": "https://github.com/VinitBhalerao3012/nlp-sql-query-tool",
+    "source": "https://github.com/VinitBhalerao3012/nlp-sql-query-tool"
+  },
+  {
     "title": "Supply Chain Analysis (Power BI)",
     "imageSrc": ["projects/Supply1.png","projects/Supply2.png","projects/Supply3.png","projects/Supply4.png"],
     "description": "Interactive Power BI dashboard analyzing supply chain performance across transportation modes, routes, carriers, and product categories to identify cost drivers and revenue opportunities. Built using DAX and Power Query with drill-through capabilities.",
