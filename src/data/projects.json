@@ -1,5 +1,13 @@
 [
   {
+    "title": "InsightPilot AI (Python, Streamlit, Groq AI)",
+    "imageSrc": ["projects/S1.png", "projects/S2.png", "projects/S3.png", "projects/S4.png", "projects/S5.png"],
+    "description": "AI-powered business analyst agent that lets you upload any CSV dataset and ask business questions in plain English. Groq/Llama 3.3 AI automatically generates and executes real pandas code, returning instant business insights. Features include CSV upload, automatic data profiling, KPI detection, SQL Playground powered by DuckDB, and AI-powered Q&A. Tested on IBM HR Analytics dataset (1,470 employee records). Live on GitHub.",
+    "skills": ["Python", "Streamlit", "Groq API", "Llama 3.3 70B", "Pandas", "DuckDB", "SQL", "AI Analytics", "Automation"],
+    "demo": "https://github.com/VinitBhalerao3012/insightpilot-ai",
+    "source": "https://github.com/VinitBhalerao3012/insightpilot-ai"
+  },
+  {
     "title": "Retail Cloud Pipeline (Python, BigQuery, SQL, Looker Studio)",
     "imageSrc": ["projects/retail_dashboard.png", "projects/forecast_chart.png"],
     "description": "End-to-end cloud data pipeline built using Python ETL, Google BigQuery, and Looker Studio. Cleaned and transformed 9,994 retail records, wrote 6 BigQuery SQL analysis queries, and built an interactive 2-page dashboard tracking £2.3M in sales performance. Extended with Facebook Prophet ML model generating 12-month sales forecasts with confidence intervals. Live on GitHub.",
