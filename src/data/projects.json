@@ -1,5 +1,13 @@
 [
   {
+    "title": "AI Data Quality Agent (Python, Streamlit, Groq AI)",
+    "imageSrc": ["projects/01_ai_narrative.png", "projects/02_dashboard.png", "projects/03_visualisations.png", "projects/04_issues_detail.png", "projects/05_column_profiles.png", "projects/06_ai_tab.png"],
+    "description": "AI-powered data quality auditing tool that automatically profiles any CSV or Excel dataset, detects anomalies, scores data quality from 0 to 100, and generates a professional AI-powered PDF report. Features include outlier detection using IQR method, duplicate and missing value analysis, colour-coded issue severity (Critical/High/Medium/Low), interactive Plotly visualisations, and Groq/Llama 3.3 AI narrative with Executive Summary, Key Findings and Recommendations. Tested on IBM HR Analytics dataset (1,470 records). Live on Streamlit Cloud.",
+    "skills": ["Python", "Streamlit", "Groq API", "Llama 3.3 70B", "Pandas", "Great Expectations", "FPDF2", "Plotly", "AI Analytics", "Data Quality", "Anomaly Detection"],
+    "demo": "https://data-quality-agent-03.streamlit.app",
+    "source": "https://github.com/VinitBhalerao3012/data-quality-agent"
+  },
+  {
     "title": "InsightPilot AI (Python, Streamlit, Groq AI)",
     "imageSrc": ["projects/S1.png", "projects/S2.png", "projects/S3.png", "projects/S4.png", "projects/S5.png"],
     "description": "AI-powered business analyst agent that lets you upload any CSV dataset and ask business questions in plain English. Groq/Llama 3.3 AI automatically generates and executes real pandas code, returning instant business insights. Features include CSV upload, automatic data profiling, KPI detection, SQL Playground powered by DuckDB, and AI-powered Q&A. Tested on IBM HR Analytics dataset (1,470 employee records). Live on GitHub.",
@@ -16,14 +24,6 @@
     "source": "https://github.com/VinitBhalerao3012/retail-cloud-pipeline"
   },
   {
-    "title": "AI-Powered Data Insight Generator (Python, Gemini AI)",
-    "imageSrc": ["projects/report_screenshot.png"],
-    "description": "Automated business insight generator that uses Google Gemini AI to analyse any CSV dataset and produce a professional PDF report instantly. Python pipeline loads and analyses data, Gemini AI generates executive summary, key findings, and business recommendations automatically. Tested on IBM HR Analytics dataset (1,470 employee records).",
-    "skills": ["Python", "Google Gemini AI", "Pandas", "FPDF2", "AI Analytics", "Automation", "PDF Generation"],
-    "demo": "https://github.com/VinitBhalerao3012/ai-insight-generator",
-    "source": "https://github.com/VinitBhalerao3012/ai-insight-generator"
-  },
-  {
     "title": "NLP to SQL Query Tool (Python, Gemini AI, SQLite)",
     "imageSrc": ["projects/nlp_screenshot1.png", "projects/nlp_screenshot2.png"],
     "description": "AI-powered tool that converts plain English questions into SQL queries automatically. User asks a question, Google Gemini AI generates and executes the SQL on a SQLite database, and returns the answer as a natural language insight. Tested on 9,271 E-Commerce records.",
@@ -32,12 +32,12 @@
     "source": "https://github.com/VinitBhalerao3012/nlp-sql-query-tool"
   },
   {
-    "title": "Supply Chain Analysis (Power BI)",
-    "imageSrc": ["projects/Supply1.png","projects/Supply2.png","projects/Supply3.png","projects/Supply4.png"],
-    "description": "Interactive Power BI dashboard analyzing supply chain performance across transportation modes, routes, carriers, and product categories to identify cost drivers and revenue opportunities. Built using DAX and Power Query with drill-through capabilities.",
-    "skills": ["Power BI", "DAX", "Power Query", "Supply Chain Analytics", "Data Visualization", "KPI Reporting"],
-    "demo": "https://github.com/VinitBhalerao3012/Supply_Chain_Analysis",
-    "source": "https://github.com/VinitBhalerao3012/Supply_Chain_Analysis"
+    "title": "AI-Powered Data Insight Generator (Python, Gemini AI)",
+    "imageSrc": ["projects/report_screenshot.png"],
+    "description": "Automated business insight generator that uses Google Gemini AI to analyse any CSV dataset and produce a professional PDF report instantly. Python pipeline loads and analyses data, Gemini AI generates executive summary, key findings, and business recommendations automatically. Tested on IBM HR Analytics dataset (1,470 employee records).",
+    "skills": ["Python", "Google Gemini AI", "Pandas", "FPDF2", "AI Analytics", "Automation", "PDF Generation"],
+    "demo": "https://github.com/VinitBhalerao3012/ai-insight-generator",
+    "source": "https://github.com/VinitBhalerao3012/ai-insight-generator"
   },
   {
     "title": "GlowHive Product Analytics Dashboard (Looker Studio)",
@@ -48,12 +48,12 @@
     "source": "https://github.com/VinitBhalerao3012/GlowHive-Product-Analytics-Dashboard/tree/main/GlowHive-Product-Analytics-Dashboard"
   },
   {
-    "title": "ShopLinx Multi-Channel Sales Analytics (Tableau + Azure)",
-    "imageSrc": ["projects/Online.png","projects/Offline.png","projects/Azure data.png"],
-    "description": "End-to-end Business Intelligence project analyzing Online and Offline retail performance using Tableau. Provides revenue trends, sales distribution by country, product category insights, and KPI tracking. Includes a simulated Azure data pipeline using Python for scalable analytics architecture.",
-    "skills": ["Tableau", "Data Visualization", "Business Intelligence", "Python", "Azure (Simulated Pipeline)", "Multi-Channel Sales Analysis"],
-    "demo": "https://github.com/VinitBhalerao3012/ShopLinx-Multi-Channel-Sales-Analytics",
-    "source": "https://github.com/VinitBhalerao3012/ShopLinx-Multi-Channel-Sales-Analytics"
+    "title": "Supply Chain Analysis (Power BI)",
+    "imageSrc": ["projects/Supply1.png","projects/Supply2.png","projects/Supply3.png","projects/Supply4.png"],
+    "description": "Interactive Power BI dashboard analyzing supply chain performance across transportation modes, routes, carriers, and product categories to identify cost drivers and revenue opportunities. Built using DAX and Power Query with drill-through capabilities.",
+    "skills": ["Power BI", "DAX", "Power Query", "Supply Chain Analytics", "Data Visualization", "KPI Reporting"],
+    "demo": "https://github.com/VinitBhalerao3012/Supply_Chain_Analysis",
+    "source": "https://github.com/VinitBhalerao3012/Supply_Chain_Analysis"
   },
   {
     "title": "Super Store Sales Analysis (Power BI)",
@@ -64,12 +64,12 @@
     "source": "https://github.com/VinitBhalerao3012/Super_Store_Analysis"
   },
   {
-    "title": "Dynamic Pricing Engine with CLV Prediction",
-    "imageSrc": ["projects/CLV.png"],
-    "description": "Machine learning-based dynamic pricing engine integrating CLV predictions to personalise prices for online retail. Used Python and XGBoost to optimise revenue, retention, and customer satisfaction.",
-    "skills": ["Python", "Machine Learning", "XGBoost", "CLV Prediction", "E-commerce", "Data Analysis"],
-    "demo": "https://github.com/VinitBhalerao3012/Dynamic-pricing-engine-",
-    "source": "https://github.com/VinitBhalerao3012/Dynamic-pricing-engine-"
+    "title": "ShopLinx Multi-Channel Sales Analytics (Tableau + Azure)",
+    "imageSrc": ["projects/Online.png","projects/Offline.png","projects/Azure data.png"],
+    "description": "End-to-end Business Intelligence project analyzing Online and Offline retail performance using Tableau. Provides revenue trends, sales distribution by country, product category insights, and KPI tracking. Includes a simulated Azure data pipeline using Python for scalable analytics architecture.",
+    "skills": ["Tableau", "Data Visualization", "Business Intelligence", "Python", "Azure (Simulated Pipeline)", "Multi-Channel Sales Analysis"],
+    "demo": "https://github.com/VinitBhalerao3012/ShopLinx-Multi-Channel-Sales-Analytics",
+    "source": "https://github.com/VinitBhalerao3012/ShopLinx-Multi-Channel-Sales-Analytics"
   },
   {
     "title": "Bank Marketing EDA (R)",
@@ -80,12 +80,28 @@
     "source": "https://github.com/VinitBhalerao3012/EDA-on-Bank-s-Marketing-Strategy"
   },
   {
+    "title": "Dynamic Pricing Engine with CLV Prediction",
+    "imageSrc": ["projects/CLV.png"],
+    "description": "Machine learning-based dynamic pricing engine integrating CLV predictions to personalise prices for online retail. Used Python and XGBoost to optimise revenue, retention, and customer satisfaction.",
+    "skills": ["Python", "Machine Learning", "XGBoost", "CLV Prediction", "E-commerce", "Data Analysis"],
+    "demo": "https://github.com/VinitBhalerao3012/Dynamic-pricing-engine-",
+    "source": "https://github.com/VinitBhalerao3012/Dynamic-pricing-engine-"
+  },
+  {
     "title": "Monday Coffee SQL Sales Analysis",
     "imageSrc": ["projects/sql-analysis(1).png", "projects/sql-analysis(2).png", "projects/sql-analysis(3).png"],
     "description": "Complete SQL data analysis pipeline for a coffee-chain business. Imported and cleaned transactional data using MySQL, built relational schemas, created analytical views for KPIs, and derived actionable insights for city, product, and customer performance.",
     "skills": ["MySQL", "SQL", "Data Cleaning", "Data Analysis", "Database Design", "ETL", "KPI Reporting"],
     "demo": "https://github.com/VinitBhalerao3012/Monday-Coffee-SQL-Analysis.git",
     "source": "https://github.com/VinitBhalerao3012/Monday-Coffee-SQL-Analysis.git"
+  },
+  {
+    "title": "Crime & Deprivation Mapping (QGIS)",
+    "imageSrc": ["projects/Crime1.png", "projects/Crime2.png", "projects/Crimebar.png"],
+    "description": "Analyzed the correlation between crime rates and socioeconomic deprivation in Cardiff and Swansea using QGIS. Applied spatial techniques including overlay and buffer analysis to identify high-crime, low-income areas and support targeted policy intervention.",
+    "skills": ["QGIS", "Spatial Analysis", "Overlay Analysis", "Buffer Analysis", "Socioeconomic Data", "Crime Mapping"],
+    "demo": "https://github.com/VinitBhalerao3012/QGIS",
+    "source": "https://github.com/VinitBhalerao3012/QGIS"
   },
   {
     "title": "House Data Dashboard (Tableau)",
@@ -104,20 +120,20 @@
     "source": "https://github.com/VinitBhalerao3012/job-data-dashboard"
   },
   {
-    "title": "Crime & Deprivation Mapping (QGIS)",
-    "imageSrc": ["projects/Crime1.png", "projects/Crime2.png", "projects/Crimebar.png"],
-    "description": "Analyzed the correlation between crime rates and socioeconomic deprivation in Cardiff and Swansea using QGIS. Applied spatial techniques including overlay and buffer analysis to identify high-crime, low-income areas and support targeted policy intervention.",
-    "skills": ["QGIS", "Spatial Analysis", "Overlay Analysis", "Buffer Analysis", "Socioeconomic Data", "Crime Mapping"],
-    "demo": "https://github.com/VinitBhalerao3012/QGIS",
-    "source": "https://github.com/VinitBhalerao3012/QGIS"
-  },
-  {
     "title": "GIS Mapping: National Parks & COVID-19",
     "imageSrc": ["projects/Covid-India.png", "projects/Nationalparks.png"],
     "description": "Created a general-purpose map of Wales highlighting national parks and a statistical map showing COVID-19 case rates per 100k across Indian states using QGIS. Visualized population-normalized data to support public health and educational analysis.",
     "skills": ["QGIS", "Cartography", "Spatial Analysis", "Data Visualization", "GIS", "Public Health Data"],
     "demo": "https://github.com/VinitBhalerao3012/GIS-Visualization-Wales-India",
     "source": "https://github.com/VinitBhalerao3012/GIS-Visualization-Wales-India"
+  },
+  {
+    "title": "Face Recognition Attendance System",
+    "imageSrc": ["projects/Face1.png","projects/Face2.png","projects/Face3.png"],
+    "description": "Developed a face recognition attendance system using Python, OpenCV, DeepFace, and SQLite. Features real-time authentication, GUI via Tkinter, and admin control. Achieved 95% accuracy with secure and efficient attendance logging.",
+    "skills": ["Python", "OpenCV", "DeepFace", "SQLite", "Tkinter", "Face Recognition", "GUI Development"],
+    "demo": "https://github.com/VinitBhalerao3012/Face-Recognition-Attendance-System",
+    "source": "https://github.com/VinitBhalerao3012/Face-Recognition-Attendance-System"
   },
   {
     "title": "EDA & Big Data Strategy with R",
@@ -142,14 +158,6 @@
     "skills": ["Python", "Machine Learning", "Random Forest", "SVM", "Scikit-learn", "EDA", "Data Visualization"],
     "demo": "https://github.com/VinitBhalerao3012/ML-Projects/blob/main/Wine%20Quality%20Prediction/WQ.ipynb",
     "source": "https://github.com/VinitBhalerao3012/ML-Projects/blob/main/Wine%20Quality%20Prediction/WQ.ipynb"
-  },
-  {
-    "title": "Face Recognition Attendance System",
-    "imageSrc": ["projects/Face1.png","projects/Face2.png","projects/Face3.png"],
-    "description": "Developed a face recognition attendance system using Python, OpenCV, DeepFace, and SQLite. Features real-time authentication, GUI via Tkinter, and admin control. Achieved 95% accuracy with secure and efficient attendance logging.",
-    "skills": ["Python", "OpenCV", "DeepFace", "SQLite", "Tkinter", "Face Recognition", "GUI Development"],
-    "demo": "https://github.com/VinitBhalerao3012/Face-Recognition-Attendance-System",
-    "source": "https://github.com/VinitBhalerao3012/Face-Recognition-Attendance-System"
   },
   {
     "title": "Operations Performance Dashboard (Excel)",
