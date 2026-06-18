@@ -1,5 +1,13 @@
 [
   {
+  "title": "AI Customer Churn Predictor (Python, Streamlit, Scikit-learn, Groq AI)",
+  "imageSrc": ["projects/churn-predictor-01-landing-page.png","projects/churn-predictor-02-single-customer-prediction.png","projects/churn-predictor-03-ai-retention-analysis.png","projects/churn-predictor-04-batch-upload.png","projects/churn-predictor-05-batch-summary-metrics.png","projects/churn-predictor-06-charts-results-table.png","projects/churn-predictor-07-ai-executive-summary-button.png","projects/churn-predictor-08-ai-executive-summary-output.png"],
+  "description": "AI-powered customer churn prediction tool using Random Forest ML and Groq/Llama 3.3 AI. Predicts which customers are at risk of leaving and explains WHY in plain business English. Features single customer prediction with gauge chart, batch CSV upload for 7,043+ customers, AI retention analysis, board-ready AI executive summary, risk segmentation (High/Medium/Low), and downloadable results. Model accuracy 76.4% trained on IBM Telco dataset. Live on Streamlit Cloud.",
+  "skills": ["Python", "Streamlit", "Scikit-learn", "Random Forest", "Groq API", "Llama 3.3 70B", "Pandas", "Plotly", "Machine Learning", "AI Analytics", "Customer Analytics", "Churn Prediction"],
+  "demo": "https://churn-predictor-30.streamlit.app",
+  "source": "https://github.com/VinitBhalerao3012/churn-predictor"
+  },
+  {
     "title": "AI Data Quality Agent (Python, Streamlit, Groq AI)",
     "imageSrc": ["projects/01_ai_narrative.png", "projects/02_dashboard.png", "projects/03_visualisations.png", "projects/04_issues_detail.png", "projects/05_column_profiles.png", "projects/06_ai_tab.png"],
     "description": "AI-powered data quality auditing tool that automatically profiles any CSV or Excel dataset, detects anomalies, scores data quality from 0 to 100, and generates a professional AI-powered PDF report. Features include outlier detection using IQR method, duplicate and missing value analysis, colour-coded issue severity (Critical/High/Medium/Low), interactive Plotly visualisations, and Groq/Llama 3.3 AI narrative with Executive Summary, Key Findings and Recommendations. Tested on IBM HR Analytics dataset (1,470 records). Live on Streamlit Cloud.",
