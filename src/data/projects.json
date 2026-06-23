@@ -16,6 +16,14 @@
     "source": "https://github.com/VinitBhalerao3012/data-quality-agent"
   },
   {
+    "title": "AI-Powered Water Infrastructure Risk Mapper (Python, Streamlit, QGIS, Groq AI)",
+    "imageSrc": ["projects/S1-landing-page.png", "projects/S2-interactive-map.png", "projects/S3-risk-charts.png", "projects/S4-ai-zone-report.png", "projects/S5-asset-drilldown.png", "projects/S6-qgis-info.png", "projects/S7-qgis-map.png"],
+    "description": "AI-powered GIS tool for water infrastructure asset risk analysis — replicating the Asset Intelligence workflow used by water utility companies like Severn Trent. Maps 200 assets across the Midlands using QGIS and Folium, scores risk by age, condition and inspection history, generates AI zone risk reports and individual asset inspection reports in plain English, and produces professional 5-page PDF reports with charts and QGIS spatial maps. Built with Python, Streamlit, QGIS, Folium, Plotly, Matplotlib, FPDF2 and Groq/Llama 3.3 AI. Live on Streamlit Cloud.",
+    "skills": ["Python", "Streamlit", "QGIS", "GIS", "Folium", "Groq API", "Llama 3.3 70B", "Pandas", "Plotly", "Matplotlib", "FPDF2", "Spatial Analysis", "Asset Management"],
+    "demo": "https://asset-risk-mapper-30.streamlit.app",
+    "source": "https://github.com/VinitBhalerao3012/asset-risk-mapper"
+  },
+  {
     "title": "InsightPilot AI (Python, Streamlit, Groq AI)",
     "imageSrc": ["projects/S1.png", "projects/S2.png", "projects/S3.png", "projects/S4.png", "projects/S5.png"],
     "description": "AI-powered business analyst agent that lets you upload any CSV dataset and ask business questions in plain English. Groq/Llama 3.3 AI automatically generates and executes real pandas code, returning instant business insights. Features include CSV upload, automatic data profiling, KPI detection, SQL Playground powered by DuckDB, and AI-powered Q&A. Tested on IBM HR Analytics dataset (1,470 employee records). Live on GitHub.",
