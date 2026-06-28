@@ -8,6 +8,14 @@
   "source": "https://github.com/VinitBhalerao3012/churn-predictor"
   },
   {
+    "title": "RetailIQ — dbt Analytics Engineering Pipeline (dbt Core, BigQuery, Looker Studio)",
+    "imageSrc": ["projects/RIQ1.png", "projects/RIQ2.png", "projects/RIQ3.png"],
+    "description": "End-to-end dbt analytics engineering pipeline on Google BigQuery processing 1,067,371 UK retail transactions. Built modular SQL transformation layers (staging → intermediate → marts), implemented 8 automated dbt data quality tests, and delivered a 3-page interactive Looker Studio dashboard. Key insights: £17.7M total revenue, 36,969 orders, 5,878 customers across 41 countries. Dashboard covers sales performance trends, customer lifetime value segmentation (High/Medium/Low), and top 20 product performance analysis. Live on Looker Studio.",
+    "skills": ["dbt Core", "Google BigQuery", "SQL", "Looker Studio", "Python", "Pandas", "Data Modelling", "ETL Pipeline", "Data Quality Testing", "Analytics Engineering", "Cloud Data Warehouse"],
+    "demo": "https://datastudio.google.com/reporting/d15c6d64-08c4-4a39-bf3e-0c7e2b89612e",
+    "source": "https://github.com/VinitBhalerao3012/retailiq-dbt-pipeline"
+  },
+  {
     "title": "AI Data Quality Agent (Python, Streamlit, Groq AI)",
     "imageSrc": ["projects/01_ai_narrative.png", "projects/02_dashboard.png", "projects/03_visualisations.png", "projects/04_issues_detail.png", "projects/05_column_profiles.png", "projects/06_ai_tab.png"],
     "description": "AI-powered data quality auditing tool that automatically profiles any CSV or Excel dataset, detects anomalies, scores data quality from 0 to 100, and generates a professional AI-powered PDF report. Features include outlier detection using IQR method, duplicate and missing value analysis, colour-coded issue severity (Critical/High/Medium/Low), interactive Plotly visualisations, and Groq/Llama 3.3 AI narrative with Executive Summary, Key Findings and Recommendations. Tested on IBM HR Analytics dataset (1,470 records). Live on Streamlit Cloud.",
