@@ -8,6 +8,14 @@
   "source": "https://github.com/VinitBhalerao3012/churn-predictor"
   },
   {
+    "title": "AI RevOps Copilot (Python, Streamlit, LangChain, Groq/Llama 3.3, SQLite, Plotly)",
+    "imageSrc": ["projects/Rvo1.png","projects/Rvo2.png","projects/Rvo3.png","projects/Rvo4.png","projects/Rvo5.png","projects/Rvo6.png","projects/Rvo7.png","projects/Rvo8.png","projects/Rvo9.png","projects/Rvo10.png","projects/Rvo11.png","projects/Rvo12.png","projects/Rvo13.png","projects/Rvo14.png","projects/Rvo15.png","projects/Rvo16.png"],
+    "description": "Conversational Revenue Operations analytics platform built with LangChain and Groq/Llama 3.3. Ask questions in plain English — AI auto-generates SQL, returns data tables, AI insights and interactive Plotly charts. Features 5 modules: AI Copilot Chat, Pipeline Dashboard (£3.6M pipeline, 45.5% win rate), Automated Pipeline Hygiene Checker (4 data quality checks), Account Health Monitor (Planhat-style churn risk scoring), and Revenue Analytics (MRR trends, waterfall, ARR by industry). Simulates Salesforce and Planhat RevOps data across 30 accounts, 50 opportunities, 100 activities and 18 months of MRR data. Live on Streamlit Cloud.",
+    "skills": ["Python", "Streamlit", "LangChain", "Groq API", "Llama 3.3 70B", "SQLite", "Plotly", "Pandas", "DuckDB", "Great Expectations", "Revenue Operations", "Pipeline Analytics", "Conversational AI"],
+    "demo": "https://ai-revops-copilot-30.streamlit.app/",
+    "source": "https://github.com/VinitBhalerao3012/ai-revops-copilot"
+  },
+  {
     "title": "RetailIQ — dbt Analytics Engineering Pipeline (dbt Core, BigQuery, Looker Studio)",
     "imageSrc": ["projects/RIQ1.png", "projects/RIQ2.png", "projects/RIQ3.png"],
     "description": "End-to-end dbt analytics engineering pipeline on Google BigQuery processing 1,067,371 UK retail transactions. Built modular SQL transformation layers (staging → intermediate → marts), implemented 8 automated dbt data quality tests, and delivered a 3-page interactive Looker Studio dashboard. Key insights: £17.7M total revenue, 36,969 orders, 5,878 customers across 41 countries. Dashboard covers sales performance trends, customer lifetime value segmentation (High/Medium/Low), and top 20 product performance analysis. Live on Looker Studio.",
