@@ -214,5 +214,5 @@
     "skills": ["Apache Airflow", "Docker", "LangGraph", "Groq API", "Great Expectations", "PostgreSQL", "Slack API", "Streamlit"],
     "demo": "https://github.com/VinitBhalerao3012/ai-etl-orchestrator",
     "source": "https://github.com/VinitBhalerao3012/ai-etl-orchestrator"
-  },
+  }
 ]
