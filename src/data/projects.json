@@ -209,7 +209,7 @@
   },
   {
     "title": "AI-Powered ETL Orchestrator",
-    "imageSrc": ["projects/streamlit-dashboard.jpeg","projects/slack-anomaly-alert.jpeg","projects/ai-demo-terminal.jpeg"],
+    "imageSrc": ["projects/streamlit-dashboard.png","projects/slack-anomaly-alert.png","projects/ai-demo-terminal.png"],
     "description": "Built an end-to-end, orchestrated data pipeline using Apache Airflow that ingests real live UK CPI inflation data from the ONS API, validates it automatically with Great Expectations, and stores it in a PostgreSQL warehouse. A LangGraph multi-agent AI system (Anomaly Detector, Root-Cause Explainer using Groq/Llama, and Alert Decider) autonomously monitors every pipeline run for statistical anomalies and generates plain-English explanations, with real-time alerts delivered via Slack. Includes a live Streamlit dashboard visualising CPI trends and AI agent run history.",
     "skills": ["Apache Airflow", "Docker", "LangGraph", "Groq API", "Great Expectations", "PostgreSQL", "Slack API", "Streamlit"],
     "demo": "https://github.com/VinitBhalerao3012/ai-etl-orchestrator",
